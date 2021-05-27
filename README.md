@@ -15,3 +15,4 @@ I'm currently learning Rust and how to contribute to Open Source.
 ## Contact me
 - email: f20202147@hyderabad.bits-pilani.ac.in
 - [LinkedIn](https://www.linkedin.com/in/sabyasachi-bhoi-4b593b171)
+- Monero Wallet: `4B3wFFz7gLXaeiH4Nq2hwfHfp7yJhHF3LNTPGbEX1H6o6F2Vc29AxoGMZjbazNPu9WUyc5n8C4q5ZUMRiwwybc21J5QkQ1n` (idk why I made this)
