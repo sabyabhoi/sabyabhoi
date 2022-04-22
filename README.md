@@ -7,12 +7,13 @@ I'm currently learning Rust and how to contribute to Open Source.
 [![sabyabhoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabyabhoi&count_private=true&hide=stars&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages known:
+- Rust 
+- Golang
 - C
 - C++
 - Python
 - Javascript / Typescript
 - Java
-- Rust (kind of)
 - R
 - LaTeX
 - Lua
